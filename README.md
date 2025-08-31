@@ -1,5 +1,7 @@
 # Study of Molybdenum carbide-based material for electrocatalytic application
 
+Check out my PPT file uploaded for the exact details of my project.
+(Look up, Check the uploaded file)
 [Report](https://rp-1.netlify.app/)
 
 This project, titled "Study of Molybdenum-Carbide for electro-catalytic applications," is a research endeavour by Sairaj Chowdhary, supervised by Prof. Shantanu K. Behera. The research focuses on the synthesis and properties of Molybdenum-Carbide, a promising alternative catalyst for water splitting, specifically for the Hydrogen Evolution Reaction (HER) and Oxygen Evolution Reaction (OER).
